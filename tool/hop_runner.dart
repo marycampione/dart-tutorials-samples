@@ -19,6 +19,7 @@ List webUIFiles = ['web/target06/littleben/web/littleben.html',
                    'web/target10/search_form/web/search_form.html',
                    'web/target10/slambook/web/slambook.html',
                    'web/target10/multiselect/web/multiselect.html',
+                   'web/target12/touchevents/web/touchevents.html',
                    'web/target11/count_down/web/count_down.html'];
 
 
