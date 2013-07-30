@@ -1,0 +1,103 @@
+---
+build.dart --machine --full
+Total time spent on web/touchevents.html                     -- 320 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 913 ms
+build.dart finished [1206 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   -- 814 ms
+build.dart finished [1114 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+Total time spent on web/touchevents.html                     -- 242 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 830 ms
+build.dart finished [1095 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+Total time spent on web/touchevents.html                     -- 266 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 852 ms
+build.dart finished [1117 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+Total time spent on web/touchevents.html                     -- 241 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 843 ms
+build.dart finished [1109 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.html
+Total time spent on web/touchevents.html                     -- 248 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 832 ms
+build.dart finished [1091 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+Total time spent on web/touchevents.html                     -- 248 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 855 ms
+build.dart finished [1112 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+Total time spent on web/touchevents.html                     -- 244 ms
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html_bootstrap.dart"}}]
+[{"method":"mapping","params":{"from":"web/touchevents.html","to":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.html"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart.map"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.css"}}]
+[{"method":"generated","params":{"file":"web/out/touchevents.dart"}}]
+[{"method":"generated","params":{"file":"web/out/xclickcounter.dart"}}]
+Total time                                                   -- 828 ms
+build.dart finished [1129 ms]
+

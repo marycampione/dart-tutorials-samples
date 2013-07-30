@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <element name="x-click-counter" constructor="CounterComponent" extends="div">
+      <template>
+        <div on-touch-start="touchStart($event)"
+             on-touch-move="touchMove($event)"
+             on-touch-cancel="touchCancel($event)"
+             on-touch-leave="touchCancel($event)"
+             on-touch-end="touchEnd($event)">
+          <button on-click="increment()">Click me</button><br />
+          <span>(click count: {{count}})</span>
+        </div>
+      </template>
+      <script type="application/dart" src="xclickcounter.dart"></script>
+    </element>
+  </body>
+</html>
